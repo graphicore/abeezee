@@ -1,4 +1,7 @@
-# ABeeZee fonts
+# A fork of ABeeZee fonts
+
+I forked ABeeZee to do some testing with the GitHub integration of the [Font Bakery Dashboard](https://github.com/googlefonts/fontbakery-dashboard). This is not a functional font project repository go to [googlefonts/abeezee](https://github.com/googlefonts/abeezee) instead.
+
 
 This file provides detailed information on the ABeeZee
 font Software.
